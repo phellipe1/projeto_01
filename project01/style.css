@@ -1,0 +1,16 @@
+
+/*Versão mobile first*/
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+} 
+body{
+
+}
+
+h1{
+}
+img{
+    height: 20vh;   
+}

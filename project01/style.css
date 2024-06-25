@@ -1,5 +1,7 @@
 
 /*Versão mobile first*/
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -11,7 +13,7 @@ html{
 body{
     align-items: center;
     text-align: center;
-    background-color: #4F4A45;
+    background-color: #1A2130;
     
 }
 
@@ -19,6 +21,11 @@ h1{
     position: relative;
     right: 20%;
     text-shadow: 1px 1px  ;
+    color: #1A2130;
+}
+h2{
+    color: #EBF4F6;
+    font-family: "Raleway";
 }
 .icon_logo{
     height: 10vh; 
@@ -32,7 +39,10 @@ h1{
 img{
     height: 68vh;
     border-radius: 25px;
-    width: 100%;
+    width: 90%;
+}
+.img_height{
+    height: auto;
 }
 hr{
     width: 80%;
@@ -44,14 +54,25 @@ button{
     box-shadow: 0px 2px;
 }
 .section_01{
-    background-color: #F6F1EE;
+    background-color: #5A72A0;
 }
 footer{
-    background-color: #4F4A45;
+    padding: 10px;
+    background-color: #1A2130;
+}
+.footer_text{
+    color: #EBF4F6;
+    font-family: "Raleway";
+}
+.intro_text{
+    font-family: "Raleway";
+    color: #1A2130;
 }
 .text{
     width: 90%;
     margin: auto;
+    color: #EBF4F6;
+    font-family: "Raleway";
 }
 .container_02{
     text-align: center;

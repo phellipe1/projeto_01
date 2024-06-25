@@ -22,6 +22,7 @@ h1{
     right: 20%;
     text-shadow: 1px 1px  ;
     color: #1A2130;
+    margin-left: 20%;
 }
 h2{
     color: #EBF4F6;
@@ -73,6 +74,7 @@ footer{
     margin: auto;
     color: #EBF4F6;
     font-family: "Raleway";
+
 }
 .container_02{
     text-align: center;
